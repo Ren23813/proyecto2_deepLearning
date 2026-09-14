@@ -1,0 +1,15 @@
+gymnasium
+gymnasium[other]
+opencv-python
+ale-py
+torch 
+torchvision --index-url https://download.pytorch.org/whl/cu126
+numpy
+moviepy
+imageio
+imageio-ffmpeg
+matplotlib
+pandas
+nbformat
+nbclient
+ipykernel
