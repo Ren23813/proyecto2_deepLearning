@@ -14,6 +14,8 @@ lugar del agente aleatorio o de regla simple.
 Uso:
     python evaluate.py --checkpoint ../checkpoints/run01_final.pt \\
                         --n-episodios 5 --video-folder ../videos/eval_run01
+
+    python src/evaluate.py --checkpoint checkpoints/corrida02_final.pt --n-episodios 5 --video-folder videos/eval_corrida02_v2
 """
 
 import argparse
